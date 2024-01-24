@@ -12,3 +12,4 @@ D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task1\obj\Debug\net8.0\refint\
 D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task1\obj\Debug\net8.0\task1.pdb
 D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
 D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task1\obj\Debug\net8.0\ref\task1.dll
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task1\obj\Debug\net8.0\task1.sourcelink.json
