@@ -1,0 +1,15 @@
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\bin\Debug\net8.0\task3.exe
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\bin\Debug\net8.0\task3.deps.json
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\bin\Debug\net8.0\task3.dll
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\bin\Debug\net8.0\task3.pdb
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.sourcelink.json
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.dll
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\refint\task3.dll
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.pdb
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task3\obj\Debug\net8.0\ref\task3.dll
