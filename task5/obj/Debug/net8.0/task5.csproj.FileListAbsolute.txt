@@ -1,0 +1,5 @@
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task5\obj\Debug\net8.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task5\obj\Debug\net8.0\task5.AssemblyInfoInputs.cache
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task5\obj\Debug\net8.0\task5.AssemblyInfo.cs
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task5\obj\Debug\net8.0\task5.csproj.CoreCompileInputs.cache
+D:\Users\Дима\Desktop\Учеба 2.0\lesson 1\task5\obj\Debug\net8.0\task5.sourcelink.json
